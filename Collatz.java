@@ -26,6 +26,3 @@ public class Collatz {
 
 		}
 	}
-// ...existing code...
-System.out.println("What does that spell?");
-// ...existing code...
