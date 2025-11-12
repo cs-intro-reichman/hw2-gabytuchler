@@ -16,7 +16,7 @@ public class Cheers {
                 else
                           System.out.println("Give me a  " + bigLetter + ": " + bigLetter + "!");
         }
-        System.out.println("what does that spell?");
+        System.out.println("What does that spell?");
                         
          for (int j=0; j<number; j++)
          {

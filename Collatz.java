@@ -19,8 +19,13 @@ public class Collatz {
 
 
 			}
+			if (mode == 'v')
+				System.out.println();
 		}
 		System.out.println( "Every one of the first " + N + " hailstone sequences reched 1.");
 
 		}
 	}
+// ...existing code...
+System.out.println("What does that spell?");
+// ...existing code...
