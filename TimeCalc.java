@@ -11,7 +11,7 @@ public class TimeCalc {
         int newhour = totalhour%24;
         int newminutes = totalMinutes - (totalhour*60);
 
-        System.out.println(newhour + ":" + newminutes);
+        System.out.println(String.format("%02d:%02d", newhour, newminutes));
 
 
 
